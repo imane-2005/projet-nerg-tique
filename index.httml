@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>  Projet de programmation web</title>
+</head>
+<body>
+<header> 
+<figure  align="center">
+<img src="logo.jpg" width="300" height="400" alt="logo" ></figure><hr>
+<h1 align="center"><font face="Times New Roman" color="#FF000000">Isolation thermique et intégration des énergies renouvelables.</font></h1>
+			<pre align="center">  <font face="Times New Roman" color="#008000"><I><h4>« Synergie pour des bâtiments durables »</h4></I> </font></pre>
+</header>
+<fieldset>
+<legend><h1>Menu:</h1></legend>
+<nav size="+1">
+<ul >
+<li><a href="Axe1.html">Isolation Thermique</a></li>
+<li><a href="Axe2.html">Énergies Renouvelabes</a></li>
+<li><a href="Axe3.html">Intégration des Énergies Renouvelables dans les Batiments</a></li>
+<li><a href="Axe4.html">Systèmes innovants pour  la gestion de l'énergie</a></li>
+ </ul>
+</nav>
+</fieldset>
+<section style="Times New Roman">			
+<h3><font color="#FF000000">INTRODUCTION GÉNÉRALE:</font></h3>
+
+<p><B> L'isolation thermique et les énergies renouvelables :</B><font color="#008000"><U>un duo gagnant pour des bâtiments durables</U></font></p> 
+<p> Dans un contexte de préoccupations environnementales grandissantes et de hausse des coûts énergétiques, 
+la construction et la rénovation de bâtiments se tournent de plus en plus vers des solutions durables. 
+Parmi celles-ci,<B> l'isolation thermique</B> et<B> l'intégration des énergies renouvelables</B> se distinguent 
+comme des piliers essentiels pour bâtir un avenir énergétique plus propre et plus efficient.</p>
+
+<p> <B>L'isolation thermique</B> consiste à réduire les échanges de chaleur entre 
+l'intérieur et l'extérieur d'un bâtiment. En améliorant l'enveloppe du bâtiment (murs, toiture, planchers),
+ il est possible de limiter les déperditions de chaleur en hiver et les apports calorifiques en été,
+ réduisant ainsi la consommation énergétique nécessaire pour le chauffage et la climatisation.</p>
+ <p> Parallèlement,  <B>l'intégration des énergies renouvelables </B>dans les bâtiments permet de produire de l'énergie sur place 
+ à partir de sources naturelles telles que le soleil,
+ le vent ou la géothermie. Les panneaux solaires photovoltaïques,
+ les éoliennes domestiques et les pompes à chaleur sont autant d'exemples de technologies qui 
+ peuvent être utilisées pour alimenter un bâtiment en énergie renouvelable.</p>
+ <p><B><I> En combinant isolation thermique et énergies renouvelables, il est possible de réaliser des bâtiments à énergie positive, 
+ c'est-à-dire des bâtiments qui produisent plus d'énergie qu'ils n'en consomment.</I></B> Ces bâtiments contribuent à réduire notre 
+ dépendance aux énergies fossiles,
+ à limiter les émissions de gaz à effet de serre et à améliorer le confort des occupants.</p>
+ <p>Dans cette page web, nous explorerons plus en détail les avantages de ces deux approches,
+ les différentes technologies disponibles et les enjeux liés à leur mise en œuvre.</p>
+ </section>
+<footer>
+<p><B>-Email personnel et sites intéressants:</B></p>
+<p><a href="mailto:amine.kibbo.35@edu.uiz.ac.ma">Email personnel </a>
+<p><font color="#FF000000">Sites intéréssants:</font></p>
+
+<p><a href="https://dexypro.fr/2024/06/05/tendances-2024-renovation-energetique-batiment/">Site1</a>
+<p><a href="https://energie.eelv.fr/la-transition-energetique/comment/des-energies-renouvelables-dans-le-batiment/">Site2 </a>
+<p><a href="https://www.sigmaaldrich.com/MA/fr/products/materials-science/energy-materials">Site3 </a>
+
+<fieldset>
+<label for="commentaires">vos commentaires</label> <br/>
+<p><textarea name="Goût" id="commentaires" cols="40" rows="4" placeholder="écrire un commentaire..."></textarea> </p>
+<input type="submit" value=" Envoyer " /> 
+ </fieldset>
+</footer>
+ </body>
+
+ </html>
